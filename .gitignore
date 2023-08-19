@@ -1,0 +1,5 @@
+quotes.db
+.env
+.envrc
+.direnv
+__pycache__
