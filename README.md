@@ -5,4 +5,4 @@ A single-server discord bot for guessing things your friends said from the past,
 Made in a, eh, _late_ evening to learn `discordpy`.
 
 ## Running
-Set up missing .env variables and make sure you have `discordpy`. It's the only dependency.
+Set up missing .env variables and make sure you have `discordpy` and `dotenv`. They're the only dependencies.
